@@ -7,7 +7,8 @@ const examples = ({data}) => {
 
     return (
         <div>
-            <Layout>Hello from my examples
+            <Layout>
+                <p>Hello from my examples</p>
             <Header />
                 <h5>author: {author}</h5>
             </Layout> 
