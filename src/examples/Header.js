@@ -24,6 +24,7 @@ const Header = () => {
             siteMetadata: {
                 title,
                 person: { name },
+                
             }, }, } = useStaticQuery(getData)
     
 
